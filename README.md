@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FlawzOfficiel !</h1>
+<h1 align="center">Hi 👋, I'm Swron !</h1>
 <h3 align="center">A passionate cheat developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flawzofficiel&label=Profile%20views&color=0e75b6&style=flat" alt="flawzofficiel" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Js, C#,**
 
-- 📫 How to reach me **flawzofficiel@gmail.com**
+- 📫 How to reach me **Swronofficiel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
